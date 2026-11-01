@@ -1,0 +1,9 @@
+{
+  "name": "agent-chat",
+  "version": "1.0.0",
+  "description": "Steer background agents as if each had its own chat: a pane with list, status and history; one click points the app's prompt at an agent.",
+  "author": {
+    "name": "humanbird"
+  },
+  "types": "./types/index.d.ts"
+}

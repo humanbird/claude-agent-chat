@@ -1,0 +1,13 @@
+{
+  "name": "agent-chat",
+  "description": "Agent Chat: steer Claude Code's background agents as if each had its own chat",
+  "owner": {
+    "name": "humanbird"
+  },
+  "plugins": [
+    {
+      "name": "agent-chat",
+      "source": "./"
+    }
+  ]
+}
